@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fei Ju  @Feiju112
 - 👀 I’m interested in constrainted optimization and its application to the automotive industry.
-- 🌱 I’m currently learning Learning method and Robust Predictive Control.
+- 🌱 I’m currently learning Learning Method and Robust Predictive Control.
 - 💞️ I’m looking to collaborate on researchers who focus on tube MPC.
 - 📫 Please contact me at jufei@njust.edu.cn :)
 
