@@ -2,7 +2,7 @@
 - 👀 I’m interested in constrainted optimization and its application to the automotive industry.
 - 🌱 I’m currently learning Learning Method and Robust Predictive Control.
 - 💞️ I’m looking to collaborate on researchers who focus on tube MPC.
-- 📫 Please contact me at jufei@njust.edu.cn :)
+- 📫 Please contact me at jufei@njfu.edu.cn :)
 
 <!---
 Feiju112/Feiju112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
